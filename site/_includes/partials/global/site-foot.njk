@@ -5,7 +5,8 @@
         <div class="l-site-footer-split">
           <div class="l-stack">
             <div class="l-site-name l-site-name--footer">
-              {% include "partials/icons/logo.svg" %}
+              <img src="/favicon.png">
+              {#% include "partials/icons/logo.svg" %#}
               <div class="l-site-title site-title">{{ site.name }}</div>
             </div>
             {% if site.shortDesc %}
@@ -17,7 +18,7 @@
             {% include "partials/nav.njk" %}
           </div>
         </div>
-        <p class="powered-by">Made by {{site.authorName}} with 11ty and Keystone</p>
+        <p class="powered-by">&copy; 2020 {{site.authorName}} — Code & Consulting by STOQE</p>
       </div>
     </div>
   </div>

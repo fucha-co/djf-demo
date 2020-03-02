@@ -1,7 +1,8 @@
 ---
-title: JAMstack plus
+permalink: "online-learning/"
+title: Online Learning
 date: "2019-10-30"
-description: "The growing complexity of JAMstack sites is now often comparable to the set-up and matainance costs of platforms like WordPress. We need a better approach."
+description: "For those seeking to learn, develop and grow as leaders in our increasingly entangled world."
 tags:
   - demo-content
   - sample-post

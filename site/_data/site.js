@@ -1,16 +1,16 @@
 module.exports = {
-  name: "Supermaya",
+  name: "Dr Jason Fox",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "Operation #FreshFox.",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
-  postsPerPage: 4,
+  authorEmail: "email@drjasonfox.com",
+  authorHandle: "@DrJasonFox",
+  authorName: "Dr Jason Fox",
+  postsPerPage: 6,
 
   theme: {
-    background: "black",
-    text: "white"
+    background: "white",
+    text: "black"
   },
 
   keystone: {

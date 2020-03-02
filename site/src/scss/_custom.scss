@@ -1,0 +1,21 @@
+
+.l-jumbo>*+* {
+    margin-top: 1rem;
+    max-width: 60ch;
+}
+
+.l-site-title {
+    flex-basis: auto;
+}
+
+.l-site-name>:first-child {
+    width: auto;
+    flex-basis: 42px;
+    margin-right: 0rem;
+}
+
+.l-site-name--footer>:first-child {
+    width: 52px;
+    flex-basis: 32px;
+    margin-right: 0rem;
+}

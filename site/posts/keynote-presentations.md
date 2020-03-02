@@ -1,14 +1,23 @@
 ---
-title: Getting started
+permalink: "keynote-presentations/" 
+title: Keynote Presentations
 date: "2019-11-01"
-description: "Supermaya is an Eleventy starter kit designed to help you add rich features to a blog or website without the need for a complicated build process."
+description: "To spark and kindle new thinking and open new possibilities—beyond the default."
 tags:
   - demo-content
   - sample-post
   - blog
 ---
 
-It comes with all the blog standard features:
+### Keynote Presentations for Leadership: thoughtful provocations for the quietly dissatisfied.
+
+<img src="/div-1.png">
+
+There’s something sacred about in-person and off-line gatherings and events. We’ve done this for as long as we have been humans. And I daresay we will continue to do so, despite the rise of new technologies (or, perhaps, because of it). It is thusly an honour and joy to be able to contribute some wit, wisdom and savvy to events—to rekindle new forms of curiosity and enchantment (such that I may).
+
+I’ve been doing this for over a decade now, and **I work incredibly well with smart and sceptical audiences that have ‘seen it all before’**. I have been awarded as ‘Keynote Speaker of The Year’ (one of the highest honours in the speaking industry), am a ‘CSP’ (whatever that means), have lectured at three universities (systems and change) and have many happy clients (though I try not to take my self too seriously).
+
+The following keynotes are but ‘approaches’ that I have honed in service to the meta-intent you have for your audience. That is: what you hope folks might think, feel and do differently as the result of your event. 
 
 - Posts and Pages
 - Pagination

@@ -1,12 +1,15 @@
 ---
-title: Where is the build process?
+permalink: "masterclasses/"
+title: Masterclasses
 date: "2019-10-31"
-description: "Supermaya wraps all the build processes into Eleventy itself."
+description: "To unlock new wisdom, wit and savvy in those leading amidst complexity and change."
 tags:
   - demo-content
   - sample-post
   - blog
 ---
+
+In-house Masterclasses to unlock new wisdom, wit and savvy in those leading amidst complexity and change.
 
 A lot of modern sites rely on tools like Sass and Babel to transpile CSS and JavaScript. They usually require build tools like Gulp or Webpack to trigger this and most larger sites have additional build steps that do anything from fetching data, to minify code, to optimise images or almost anything else.
 

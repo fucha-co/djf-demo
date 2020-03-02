@@ -1,28 +1,28 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "About",
       "url": "/",
       "external": false
     },
     {
-      "text": "Posts",
-      "url": "/posts",
+      "text": "Blog",
+      "url": "/",
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/MikeRiethmuller",
-      "external": true
+      "text": "Books",
+      "url": "/",
+      "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/madebymike/supermaya",
-      "external": true
+      "text": "Podcast",
+      "url": "/",
+      "external": false
     },
     {
-      "text": "Feed",
-      "url": "/feed.xml",
+      "text": "Contact",
+      "url": "/",
       "external": true
     }
   ]

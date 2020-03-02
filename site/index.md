@@ -1,18 +1,9 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
-postsHeading: Latest posts
+title: Operation Fresh Fox
+postsHeading: Metamodern Wizard for Hire
 allPostsText: See all posts
 socialImage: ""
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
-
-<ul>
-    <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
-    </li>
-    <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
-    </li>
-</ul>
+Dr Fox is a wizard-philosopher masquerading as a motivational speaker and leadership advisor. And this is an insanely-high-performant live static website demo by STOQE. **Welcome to 2020 Dr Fox**...

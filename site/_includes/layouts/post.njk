@@ -8,10 +8,10 @@
     <p class="post-description">{{ description | safe }}</p>
   {% endif %}
   <p class="post-meta">
-    {% if date %}
+    <!--{% if date %}
       Posted by {{ authorName }}
       on <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
-    {% endif %} (about a {{ helpers.getReadingTime(content) }} minute read).
+    {% endif %}--> a {{ helpers.getReadingTime(content) }} minute read
   </p>
 </div>
 {% endset %}
