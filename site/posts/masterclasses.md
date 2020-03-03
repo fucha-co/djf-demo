@@ -4,9 +4,8 @@ title: Masterclasses
 date: "2019-10-31"
 description: "To unlock new wisdom, wit and savvy in those leading amidst complexity and change."
 tags:
-  - demo-content
-  - sample-post
-  - blog
+  - online
+  - services
 ---
 
 In-house Masterclasses to unlock new wisdom, wit and savvy in those leading amidst complexity and change.

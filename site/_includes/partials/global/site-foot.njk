@@ -2,23 +2,27 @@
   <div class="theme">
     <div class="l-container">
       <div class="l-site-footer">
+        {% include "partials/i/div-2.njk" %}
         <div class="l-site-footer-split">
           <div class="l-stack">
             <div class="l-site-name l-site-name--footer">
-              <img src="/favicon.png">
-              {#% include "partials/icons/logo.svg" %#}
-              <div class="l-site-title site-title">{{ site.name }}</div>
+              <a href="/" class="invert-link">
+                <span class="l-site-name">
+                  {% include "partials/i/logo.png" %}
+                  <span class="l-site-title site-title">{{ site.name }}</span>
+                </span>
+              </a>
             </div>
-            {% if site.shortDesc %}
+            {#% if site.shortDesc %}
               <p>{{ site.shortDesc }}</p>
-            {% endif %}
+            {% endif %#}
           </div>
           <div class="l-footer-nav">
             {% set navLocation = 'footer' %}
             {% include "partials/nav.njk" %}
           </div>
         </div>
-        <p class="powered-by">&copy; 2020 {{site.authorName}} — Code & Consulting by STOQE</p>
+        <p class="powered-by">Copyright 2020 &copy; &middot; {{site.authorName}} &middot; {{site.url}} <br> Code & Consulting by STOQE</p>
       </div>
     </div>
   </div>

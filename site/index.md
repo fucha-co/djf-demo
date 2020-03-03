@@ -1,6 +1,6 @@
 ---
 layout: "layouts/home.njk"
-title: Operation Fresh Fox
+title: Welcome to 2020...
 postsHeading: Metamodern Wizard for Hire
 allPostsText: See all posts
 socialImage: ""

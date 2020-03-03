@@ -7,12 +7,13 @@
   {% if description %}
     <p class="post-description">{{ description | safe }}</p>
   {% endif %}
-  <p class="post-meta">
-    <!--{% if date %}
+  {% include "partials/i/div-2.njk" %}
+  <!--p class="post-meta">
+    {% if date %}
       Posted by {{ authorName }}
       on <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
-    {% endif %}--> a {{ helpers.getReadingTime(content) }} minute read
-  </p>
+    {% endif %} This is a {{ helpers.getReadingTime(content) }} minute read
+  </p-->
 </div>
 {% endset %}
 

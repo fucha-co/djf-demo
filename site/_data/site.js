@@ -1,8 +1,8 @@
 module.exports = {
   name: "Dr Jason Fox",
   shortDesc:
-    "Operation #FreshFox.",
-  url: "",
+    "Welcome to 2020",
+  url: "drjasonfox.com",
   authorEmail: "email@drjasonfox.com",
   authorHandle: "@DrJasonFox",
   authorName: "Dr Jason Fox",

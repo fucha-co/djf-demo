@@ -4,12 +4,11 @@ title: Online Learning
 date: "2019-10-30"
 description: "For those seeking to learn, develop and grow as leaders in our increasingly entangled world."
 tags:
-  - demo-content
-  - sample-post
-  - blog
+  - online
+  - services
 comments: false
 claps: false
-bookmarks: false
+bookmarks: true
 ---
 
 Traditionally adding features that have persistent data and user generated content on JAMstack sites is difficult. Many solutions involve complicated build processes and multiple third-party services.

@@ -1,5 +1,5 @@
 --- 
-title: Tags 
+title: Tags
 pagination: 
   data: collections 
   size: 1
@@ -21,7 +21,7 @@ permalink: /tags/{{ tag }}/
 {% set introHeading %}Posts{% endset %}
 
 {# Post list content #}
-{% set postListHeading %}Posts tagged: “{{ tag }}”{% endset %}
+{% set postListHeading %}Dr Jason Fox {{ tag }}{% endset %}
 {% set postListItems = collections[tag] %}
 
 {% block content %}

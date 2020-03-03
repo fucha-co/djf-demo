@@ -4,9 +4,7 @@ title: Leadership Development
 date: "2019-10-30"
 description: "Tailored for those pioneering meaningful progress in uncharted territory."
 tags:
-  - demo-content
-  - sample-post
-  - blog
+  - services
 ---
 
 

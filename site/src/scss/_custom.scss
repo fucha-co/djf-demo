@@ -19,3 +19,26 @@
     flex-basis: 32px;
     margin-right: 0rem;
 }
+
+img .m0a {
+    margin: 0 auto;
+}
+
+.l-page {
+    max-width: 1200px;
+    margin: 0 auto 0 auto;
+}
+
+.l-site-footer-split {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0 2rem 0;
+}
+
+.l-stack--large>*+* {
+    margin-top: 0rem;
+}
+
+img.nm {
+    margin: 0 !important;
+}
