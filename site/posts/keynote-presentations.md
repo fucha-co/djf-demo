@@ -5,6 +5,9 @@ date: "2019-11-01"
 description: "To spark and kindle new thinking and open new possibilities—beyond the default."
 tags:
   - services
+comments: true
+claps: true
+bookmarks: true
 ---
 
 <img class="nm" src="/theleadershipcircle.jpg">

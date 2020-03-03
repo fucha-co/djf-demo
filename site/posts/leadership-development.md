@@ -5,14 +5,10 @@ date: "2019-10-30"
 description: "Tailored for those pioneering meaningful progress in uncharted territory."
 tags:
   - services
+comments: false
+claps: false
+bookmarks: true
 ---
-
-
-
-- Comments
-- Claps
-- Reading List
-- Login
 
 These _optional_ features are powered by a [JAMstack Plus starter kit](https://github.com/MadeByMike/keystone-jamstack-plus) which is powered by [Keystone 5](https://keystonejs.com/) a Node based application development framework and CMS.
 

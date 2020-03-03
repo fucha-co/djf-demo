@@ -6,6 +6,9 @@ description: "To unlock new wisdom, wit and savvy in those leading amidst comple
 tags:
   - online
   - services
+comments: true
+claps: true
+bookmarks: true
 ---
 
 In-house Masterclasses to unlock new wisdom, wit and savvy in those leading amidst complexity and change.
