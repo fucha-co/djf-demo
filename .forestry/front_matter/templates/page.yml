@@ -1,0 +1,19 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: postsHeading
+  label: postsHeading
+- type: text
+  name: allPostsText
+  label: allPostsText
+- type: text
+  name: socialImage
+  label: socialImage
