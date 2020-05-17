@@ -17,3 +17,5 @@ fields:
 - type: text
   name: socialImage
   label: socialImage
+pages:
+- test.md
